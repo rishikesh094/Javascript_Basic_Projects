@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #415153;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form button{
+   margin: 0 100px;
+   padding: 5px 12px;
+
+}
+form input{
+    outline: none;
+}
+
+#result{
+   color: aliceblue;
+   margin: 0 60px;
+}
+/* #result p {
+    text-align: center;
+
+} */
